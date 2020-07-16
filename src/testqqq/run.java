@@ -74,4 +74,5 @@ public class run {
         new Thread(ticketWindow).start();
         new Thread(ticketWindow).start();
         new Thread(ticketWindow).start();
+        System.out.println("cndskcjsikvdiosjncs");
 	}}
